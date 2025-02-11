@@ -9,9 +9,9 @@ value = 4
 console.log(name, lastname, value)
 
 // var no se debe de usar 
-if(true){
-    const name = 'Kakaroto'
-    console.log(name)
+if (true) {
+  const name = 'Kakaroto'
+  console.log(name)
 }
 
 console.log(value)
